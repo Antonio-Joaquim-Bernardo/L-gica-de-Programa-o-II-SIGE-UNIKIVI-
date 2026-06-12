@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1781194653 source:c:\users\pc\documents\trabalho de lógica de proramação\sige-unikivi\sige-unikivi\estudante.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estudante.h"
+
+1781194618 c:\users\pc\documents\trabalho de lógica de proramação\sige-unikivi\sige-unikivi\estudante.h
+
+1781194736 source:c:\users\pc\documents\trabalho de lógica de proramação\sige-unikivi\sige-unikivi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"estudante.h"
+
+1781183115 source:c:\users\pc\documents\trabalho de lógica de proramação\backup\sige-unikivi não está\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estudante.h"
+
+1781183120 c:\users\pc\documents\trabalho de lógica de proramação\backup\sige-unikivi não está\estudante.h
+
+1781196160 source:c:\users\ajb enterprise\documents\ajb enterprise kimpavita\logpro\2º semestre\sige-unikivi\sige-unikivi\estudante.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estudante.h"
+
+1781196160 c:\users\ajb enterprise\documents\ajb enterprise kimpavita\logpro\2º semestre\sige-unikivi\sige-unikivi\estudante.h
+
+1781196160 source:c:\users\ajb enterprise\documents\ajb enterprise kimpavita\logpro\2º semestre\sige-unikivi\sige-unikivi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"estudante.h"
+
